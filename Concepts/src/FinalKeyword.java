@@ -12,8 +12,8 @@ public class FinalKeyword {
 }
 
 class Parent{
-	final String name = "Anubhav";
-	final void m1() {
+	//final String name = "Anubhav";
+	void m1() {
 		System.out.println("Parent Class");
 	}
 }
