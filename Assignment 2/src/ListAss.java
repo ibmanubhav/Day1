@@ -8,7 +8,7 @@ public class ListAss {
 
 	private static void accountList() {
 		// TODO Auto-generated method stub
-		List<Account> acc = new ArrayList<Account>();
+	//	List<Account> acc = new ArrayList<Account>();
 		Account[] accArray = new Account[5];
 		for (int i = 0; i < accArray.length; i++) {
 			Account acc1 = new Account();
