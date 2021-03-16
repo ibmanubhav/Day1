@@ -1,12 +1,9 @@
 
 public class Abcd {
-	int[] x;
-	int[] m1(int[] z) {
-		x = z;
-		return z;
-		
+	int add(int a, int b) {
+		return a+b;
 	}
-
-	
-
+	int add(int a, int b, int c) {
+		return a+b+c;
+	}
 }
